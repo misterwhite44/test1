@@ -1,3 +1,3 @@
-#print hello world 
+#print test
 
-print("Hello World")
+print("test")
